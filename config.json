@@ -87,7 +87,7 @@
     "clean_cache": false,
     "narrow": false,
     "use_hinted": false,
-    "use_static_base_font": true,
+    "cn.use_static_base_font": false
     "scale_factor": 1.0
   }
 }
